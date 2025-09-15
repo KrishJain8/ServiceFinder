@@ -10,7 +10,6 @@ This project is a **Streamlit-based AI agent** that helps users find nearby serv
 - Interactive **Folium map** with markers and Google Directions links
 - Adjustable search radius
 
-![EV AI Agent Screenshot](services%20finder%20output.png)
 
 ## How It Works
 1. User enters a query like:  
